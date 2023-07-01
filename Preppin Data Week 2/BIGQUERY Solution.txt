@@ -1,0 +1,3 @@
+dataset: console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1seastern-flight-380709!2sIBANs
+
+query: https://console.cloud.google.com/bigquery?sq=95731073844:400b646643b24481acb50f6680cae5cc
